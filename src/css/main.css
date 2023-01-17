@@ -77,6 +77,10 @@ small screen
 
 @media all and (max-width:600px) {
     #body {
-        background-image: url(../img/islam_mobile_wallpaper.jpg);
+        background-image: url(../img/mobile_1.jpg);
+        background-position: top;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
     }
 }
